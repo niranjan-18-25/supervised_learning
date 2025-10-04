@@ -1,2 +1,2 @@
-# supervised_learning
-i start to learn supervised learning
+# Machine learning 
+i start to learn Machine learning 😄
