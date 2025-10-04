@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 import seaborn as sns
 import matplotlib.pyplot as plt
-
+# download dataset from here -> "https://www.kaggle.com/datasets/hnazari8665/tipscsv?select=tips.csv"
 # load dataset
 data = pd.read_csv(r"C:\Users\Admin\Downloads\tips.csv")
 df = pd.DataFrame(data)
